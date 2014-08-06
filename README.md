@@ -1,6 +1,6 @@
 This is fork of https://github.com/tutsplus/Monster-Wants-Candy-demo by Andrzej Mazur.
 
-I am use haxe-phaser (https://github.com/Blank101/haxe-phaser) and FlashDevelop. 
+Code rewrite with haxe-phaser (https://github.com/Blank101/haxe-phaser) and FlashDevelop. 
 
 
 Original read-me:
